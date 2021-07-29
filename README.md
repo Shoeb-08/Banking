@@ -1,13 +1,12 @@
 # Banking
-
-
-
-
-
 This is a Front End page built using react the Key Features are:
+
 1)React tools
+
 2)Responsive to any device
+
 3)React-Scroll
+
 4)Smooth scrolling and aesthetic visuals 
 
 WebSite LINK( deployed using Firebase):
